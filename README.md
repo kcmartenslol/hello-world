@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi! I'm KC and I'm 18 years old. I'm a photographer and writer.
